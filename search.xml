@@ -2,8 +2,13 @@
 <search>
   <entry>
     <title><![CDATA[001abc]]></title>
-    <url>%2F2019%2F05%2F08%2F001abc%2F</url>
-    <content type="text"><![CDATA[123 456 abc def gogo horus]]></content>
+    <url>%2F2019%2F05%2F08%2F2019-05-08-001abc%2F</url>
+    <content type="text"><![CDATA[Brief to Markdown H1H2H2行內程式碼H3H4H5H612$ hexo new "My New Post"段落型程式碼]]></content>
+      <tags>
+        <tag>自學</tag>
+        <tag>多語</tag>
+        <tag>線上課程</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
